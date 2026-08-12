@@ -1,4 +1,4 @@
- Projeto Catálogo de Filmes
+# **Projeto Catálogo de Filmes**
 ### Requisitos Funcionais
 
 **RF01:**  O sistema deverá permitir que o usuário realize login por meio de usuário e senha.
